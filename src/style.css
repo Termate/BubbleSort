@@ -1,11 +1,11 @@
 .pclass {
   margin-right: 10px;
   border: 2px;
-  color: red;
   display: inline-block;
-  /* background-color: blue; */
-  border: 1px, solid, black;
+  border: 1px solid black;
+
 }
+
 
 /* #list {
   display:

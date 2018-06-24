@@ -1,9 +1,0 @@
-.pclass {
-  margin-right: 10px;
-  border: 2px;
-  display: inline-block;
-  position: relative;
-  border: 1px solid black;
-  transition:  100ms left;
-  left: 0px;
-}
